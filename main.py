@@ -2,6 +2,8 @@ import streamlit as st
 
 st.title('Calculate Wage App :sunglasses:')
 
+st.warning('Kush ka mungu te shtunen mos te vjen te enjten pa qokollada !!!')
+
 
 hours = st.number_input('Please enter hours: ',step=1)
 
